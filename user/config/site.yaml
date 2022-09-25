@@ -1,0 +1,28 @@
+title: Клишин
+default_lang: ru
+author:
+  name: 'ILya Klishin'
+  email: kin@csadv.ru
+taxonomies:
+  - category
+  - tag
+metadata:
+  description: 'Это официальный сайт Илья Клишин и авторский проект...'
+summary:
+  enabled: true
+  format: short
+  size: 300
+  delimiter: '==='
+redirects: null
+routes: null
+blog:
+  route: /blog
+share:
+  facebook: true
+  twitter: true
+calendar: true
+sidebar_position: left
+menu:
+  -
+    text: 'External link'
+    link: '#'

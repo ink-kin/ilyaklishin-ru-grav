@@ -1,0 +1,41 @@
+ru:
+  SITE:
+    TITLE: Клишин
+    DESCRIPTION: Авторский проект моего сайта - это здоровый образ мышления и жизни Продвижение интеллектуальной собственности Material Design Быстрое развитие Публичные выступления
+    COPYRIGHT: © Все права защищены %s ILyaKlishin.ru
+  SUBSCRIBE: Заказать
+  TWEET: Твит
+  SHARE: Поделиться
+  MONTHS_OF_THE_YEAR: [Январь, Февраль, Март, Апрель, Май, Июнь, Июль, Август, Сентябрь, Октябрь, Ноябрь, Декабрь]
+  DAYS_OF_THE_WEEK: [Понедельник, Вторник, Среда, Четверг, Пятница, Суббота, Воскресенье]
+  READ_MORE: Подробнее
+  SEARCH: Поиск
+  RANDOM_ARTICLE: Другая статья
+  POPULAR_TAGS: Популярные теги
+  LATEST_RECIPES: Свежая статья
+  RELATED_POSTS: Связанный материал
+  SEARCH_FIELD: Введите и нажмите ввод...
+  NEXT: Следующий
+  PREVIOUS: Предыдущий
+  TOPICS: Темы
+
+en:
+  SITE:
+    TITLE: Klishin
+    DESCRIPTION: The author's project of my website is a healthy way of thinking and living The promotion of intellectual property Material Design Rapid development Public speaking
+    COPYRIGHT: © Copyright %s ILyaKlishin.ru
+  SUBSCRIBE: Subscribe
+  TWEET: Tweet
+  SHARE: Share
+  MONTHS_OF_THE_YEAR: [January, February, March, April, May, June, July, August, September, October, November, December]
+  DAYS_OF_THE_WEEK: [Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday]
+  READ_MORE: Read More
+  SEARCH: Search
+  RANDOM_ARTICLE: Random Article
+  POPULAR_TAGS: Popular Tags
+  LATEST_RECIPES: Latest Recipes
+  RELATED_POSTS: Related
+  SEARCH_FIELD: Type and press enter...
+  NEXT: Next
+  PREVIOUS: Previous
+  TOPICS: topics
